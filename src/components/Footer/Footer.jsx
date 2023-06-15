@@ -43,11 +43,11 @@ const Footer = () => {
         <div className="col">
           <div className="title">Pages</div>
           <span className="text">Home</span>
+          <span className="text">Returns</span>
           <span className="text">About</span>
           <span className="text">Privacy Policy</span>
-          <span className="text">Returns</span>
-          <span className="text">Terms & Conditions</span>
           <span className="text">Contact Us</span>
+          <span className="text">Terms & Conditions</span>
         </div>
       </div>
       <div className="bottom-bar">
