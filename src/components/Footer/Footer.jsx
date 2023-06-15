@@ -31,7 +31,7 @@ const Footer = () => {
           </div>
           <div className="c-item">
             <FaEnvelope />
-            <div className="text">Email: store@jsdev.com</div>
+            <div className="text">Email: nafeesbutt234@gmail.com</div>
           </div>
         </div>
         <div className="col">
