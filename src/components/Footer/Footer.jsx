@@ -20,10 +20,7 @@ const Footer = () => {
           <div className="title">Contact</div>
           <div className="c-item">
             <FaLocationArrow />
-            <div className="text">
-              Kayaloram Rd, Punnamada, Kottankulangara, Alappuzha, Kerala,
-              688006
-            </div>
+            <div className="text">We are available for your help</div>
           </div>
           <div className="c-item">
             <FaMobileAlt />
