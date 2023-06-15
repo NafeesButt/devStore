@@ -27,7 +27,7 @@ const Footer = () => {
           </div>
           <div className="c-item">
             <FaMobileAlt />
-            <div className="text">Phone: 0471 272 0261</div>
+            <div className="text">Phone: 0313 456 789 1</div>
           </div>
           <div className="c-item">
             <FaEnvelope />
